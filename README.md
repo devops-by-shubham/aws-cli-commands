@@ -189,7 +189,7 @@ aws iam attach-user-policy --user-name newuser \
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+Contributions are welcome!
 
 ### Quick Contribution Steps
 1. Fork the repository
@@ -197,10 +197,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 3. Add your scripts/documentation
 4. Test thoroughly
 5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
